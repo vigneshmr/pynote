@@ -3,7 +3,7 @@
 
 Viola Link:
 
-https://mybinder.org/v2/gh/vigneshmr/pynote/HEAD?urlpath=voila%2Frender%2Fbase.ipynb
+https://notebooks.gesis.org/binder/jupyter/user/vigneshmr-pynote-pgq1niju/voila/render/base.ipynb?token=LUP9c4AaQySF11gKZ9xiPQ
 
 URL To Open:
 
